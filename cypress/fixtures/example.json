@@ -1,0 +1,13 @@
+{
+  "username": "TestUser726",
+  "password": "1)1)l@GQx5%)",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "authCode":"Basic VGVzdFVzZXI3MjY6MSkxKWxAR1F4NSUp",
+  "grossPayment": 2000,
+  "paychecksPerYear": 26,
+  "paycheckBenefitsCost": 38.461538462,
+  "paycheckDependantCost": 19.230769231,
+  "yearlyBenefitsCost": 1000,
+  "yearlyDependantCost": 500
+  
+}

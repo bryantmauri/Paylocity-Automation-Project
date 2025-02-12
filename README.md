@@ -1,0 +1,1 @@
+Open the main folder in terminal or visual studio code and run  "npx cypress run  "cypress/integration/*.js"" to see the execution in the Terminal or "npx cypress run --headed --browser chrome --spec "cypress/integration/*.js" " to run it on chrome
